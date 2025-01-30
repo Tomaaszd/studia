@@ -25,3 +25,5 @@ bohater.show_character()
 bohater.move(5, 3)
 bohater.show_character()
 bohater.interakcja()
+
+#komentarz :3
